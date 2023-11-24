@@ -1,9 +1,9 @@
-const PrismaPage = () => {
+const TasksPage = () => {
     return (
         <div>
-            <h1 className="text-7xl">Prisma Page</h1>
+            <h1 className="text-7xl">Tasks Page</h1>
         </div>
     );
 };
 
-export default PrismaPage;
+export default TasksPage;
